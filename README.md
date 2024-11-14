@@ -1,12 +1,12 @@
 # Project 1
 
-**Tittle** [Billonaires](Billionaires Dashboard (1).xlsx)
+**Tittle:** (Billionaires Dashboard (1).xlsx)
 
-**Tools Used** Microsoft Excel (Pivot chart, pivot tables,conditionalfomatting, filters,)
+**Tools Used:** Microsoft Excel (Pivot chart, pivot tables,conditionalfomatting, filters,)
 
-**Project Description**
+**Project Description:**
 
-**Key Findings**
+**Key Findings:**
 
-**Dashboard Overview**
+**Dashboard Overview:**
 ![Billonaires](Billonaires.png)
