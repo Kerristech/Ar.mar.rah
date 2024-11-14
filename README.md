@@ -10,3 +10,16 @@
 
 **Dashboard Overview:**
 ![Billonaires](Billonaires.png)
+
+# Project 2
+
+**Tittle:** [Coffee sales dashboard.xlsx](https://github.com/Kerristech/Ar.mar.rah#:~:text=Coffee%20sales%20dashboard.xlsx)
+
+**Tools Used:** Microsoft Excel (pivot chart, pivot table, conditional formatting, filters,Slicer, Timeline)
+
+**Project Description:**
+
+**key findings:**
+
+**Dashboard Overview:**
+![Coffee](Coffee.png)
