@@ -1,1 +1,12 @@
-# Ar.mar.rah
+# Project 1
+
+**Tittle** [Billonaires](Billionaires Dashboard (1).xlsx)
+
+**Tools Used** Microsoft Excel (Pivot chart, pivot tables,conditionalfomatting, filters,)
+
+**Project Description**
+
+**Key Findings**
+
+**Dashboard Overview**
+![Billonaires](Billonaires.png)
